@@ -6,16 +6,14 @@ highlight_color: '#3498db'
 # Profile links on the left sidebar, leave blank to ignore
 social:
   github: ttvd
-  #bitbucket: philipj
-  #hacker_news: swanson
-  #stackexchange: 348619
-  #stackoverflow: 348619
+  bitbucket: ttvd
+  #hacker_news: ___
+  #stackexchange: 133015
+  #stackoverflow: 133015
   twitter: ttvd
-  #facebook: zuck
-  #tumblr: animalygifs
-  #linkedin: philipjagielski
-  #gplus: 110552447039675960964
-  #gravatar: 86e6ff8f75f9daef42d53b7f8002fd95
+  linkedin: mkonyk
+  #gplus: ___
+  gravatar: 645b662054c37a74871a84fe5f74f29e
 
 # "Hi, I'm _______"
 name: Mykola Konyk
