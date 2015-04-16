@@ -65,10 +65,22 @@ Follow me:
 
   {% if site.data.theme.social.keybase %}
   <a title="{{ site.data.theme.name }} on Keybase" href="https://keybase.io/{{ site.data.theme.social.keybase }}">
-    <i class="fa fa-lock-square"></i>
+    <i class="fa fa-pencil-square"></i>
   </a>
   {% endif %}
 
+  {% if site.data.theme.social.vimeo %}
+  <a title="{{ site.data.theme.name }} on Vimeo" href="https://vimeo.com/{{ site.data.theme.social.vimeo }}">
+    <i class="fa fa-vimeo-square"></i>
+  </a>
+  {% endif %}
+
+  {% if site.data.theme.social.steam %}
+  <a title="{{ site.data.theme.name }} on Steam" href="https://steamcommunity.com/{{ site.data.theme.social.steam }}">
+    <i class="fa fa-steam-square"></i>
+  </a>
+  {% endif %}
+  
   <a title="Atom feed" id="atom" href="/atom.xml">
     <i class="fa fa-rss-square"></i>
   </a>
