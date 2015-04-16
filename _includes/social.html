@@ -63,6 +63,12 @@ Follow me:
   </a>
   {% endif %}
 
+  {% if site.data.theme.social.keybase %}
+  <a title="{{ site.data.theme.name }} on Keybase" href="https://keybase.io/{{ site.data.theme.social.keybase }}">
+    <i class="fa fa-keybase-square"></i>
+  </a>
+  {% endif %}
+
   <a title="Atom feed" id="atom" href="/atom.xml">
     <i class="fa fa-rss-square"></i>
   </a>
