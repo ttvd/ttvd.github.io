@@ -6,7 +6,7 @@ highlight_color: '#3498db'
 # Profile links on the left sidebar, leave blank to ignore
 social:
   github: ttvd
-  bitbucket: ttvd
+  #bitbucket: ttvd
   #hacker_news: ___
   #stackexchange: 133015
   #stackoverflow: 133015
