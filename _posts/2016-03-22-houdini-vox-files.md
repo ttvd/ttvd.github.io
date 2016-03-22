@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Loading MagicaVoxel Voxel Vox files into Houdini
+title: Loading MagicaVoxel voxel vox files into Houdini
 categories:
 - blog
 - voxel
