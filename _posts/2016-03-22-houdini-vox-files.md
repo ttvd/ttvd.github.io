@@ -17,5 +17,6 @@ At this point I am about to start experimenting with voxel key frame animations.
 <iframe src="https://player.vimeo.com/video/160024226" width="800" height="600" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p>
 
----
+<br>
+
 The code for GEO .vox node is available in [houdini-geo-vox](https://github.com/ttvd/houdini-geo-vox) repository.
